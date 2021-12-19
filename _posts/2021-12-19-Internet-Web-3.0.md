@@ -3,6 +3,7 @@ layout: post
 title:  "Internet Web 3.0"
 date:   2021-12-19 10:25:00 +0530
 categories: Internet
+#image: assets/images/2021/web3.0.png
 tag: Internet
 ---
 
@@ -12,6 +13,8 @@ was introduced in the year 1990 and it evolved into 3 generations.
 Web 1.0 is the period between 1990 and 2005.
 Web 2.0 started in 2005 and continuing till date.
 Web 3.0 starts now with the new technology called Decentralized Applications.
+
+![](../../assets/images/2021/web3.0.png)
 
 ## Web 1.0
 
@@ -38,6 +41,8 @@ Smart phones was launched, by which user can access the Internet services
 on-the-go. And thanks to evolution on Telecom services during this period,
 by which 3G and 4G launched all over the world. Which gives better Internet
 services for the users who are in transit.
+
+![](../../assets/images/2021/web1.0-and-web2.0.png)
 
 Next a wearables got introduced, which is more than a wrist watch. It can
 track our health conditions like heart rate, O2 levels and our physical
@@ -84,6 +89,8 @@ centralized applications. If tomorrow any one of those organization decides
 to stop the service, then it is a huge setback for users. That is the
 important problem in Centralized applications in Internet.
 
+![](../../assets/images/2021/web3.0-decentralized-network.png)
+
 In decentralized technology each user forms a network, for communication or
 data operation, in which there is no governing entity. Each user validates all
 other’s operation or communication. And each user holds the complete set of
@@ -92,8 +99,7 @@ So this decetranlized technology is going to remove centralized server, which
 is getting deployed and operated by a single party.
 
 Application runs on Decentralized technology is called DApps (Decentralized
-Applications). It runs on network of computers using peer-to-peer technology,
-instead of running on a single server. It uses a Smart Contracts to complete
+Applications). It runs on network of computers using peer-to-peer technology, instead of running on a single server. It uses a Smart Contracts to complete
 the transaction between two entity without the need for third party.
 
 ### Advantages of DApps
@@ -117,4 +123,7 @@ challenging.
 
 - After deployment, Software code of DApps will be hard to modify for bug fixes.
 
-
+## Conclusion
+Internet technologies is the back bone of rapid evolution of Human life in the
+last three decade. With the new addition of Decentralized Technology to
+Internet is going to make an another rapid evolution to Human life.
