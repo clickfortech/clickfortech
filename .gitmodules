@@ -1,0 +1,4 @@
+[submodule "themes/affiliates-jekyll-theme"]
+	path = themes/affiliates-jekyll-theme
+	url = git@github.com:rashokvk/affiliates-jekyll-theme.git
+	branch = rashok-1.0.3
