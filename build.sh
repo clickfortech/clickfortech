@@ -25,6 +25,7 @@ cd ../..
 
 # 3. Post build copy
 if [ -d "${SITE_REPO}" ]; then
-    cp site-assets/README.md ../${SITE_REPO}
-    cp site-assets/CNAME ../${SITE_REPO}
+    cp site-assets/README.md ${SITE_REPO}
+    cp site-assets/CNAME ${SITE_REPO}
+    echo "copied assets"
 fi
