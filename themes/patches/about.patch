@@ -1,0 +1,19 @@
+diff --git a/pages/about.md b/pages/about.md
+index 3150038..a0ea695 100644
+--- a/pages/about.md
++++ b/pages/about.md
+@@ -5,11 +5,8 @@ permalink: "/about/"
+ image: assets/images/screenshot.png
+ ---
+ 
+-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
++Click For Tech is a place where latest and trending technology topics are
++published.
+ 
+-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+-
+-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+-
+-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
++There is a youtube channel as well.
+ 
