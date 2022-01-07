@@ -1,5 +1,5 @@
 diff --git a/_config.yml b/_config.yml
-index 2dbd79f..5cdf7d4 100644
+index 2dbd79f..a9cfdc4 100644
 --- a/_config.yml
 +++ b/_config.yml
 @@ -1,13 +1,19 @@
@@ -41,10 +41,7 @@ index 2dbd79f..5cdf7d4 100644
 -  sal:
 -    name: Sal
 -    display_name: Sal
-+  Ashok:
-+    name: Ashok
-+    display_name: Ashok
-     avatar: 'assets/images/sal.png'
+-    avatar: 'assets/images/sal.png'
 -    email: wowthemesnet@gmail.com
 -    web: https://www.wowthemes.net/category/jekyll-themes/
 -    twitter: https://twitter.com/wowthemesnet
@@ -57,6 +54,10 @@ index 2dbd79f..5cdf7d4 100644
 -    web: https://www.wowthemes.net/category/jekyll-themes/
 -    twitter: https://twitter.com/wowthemesnet
 -    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
++  Ashok:
++    name: Ashok
++    display_name: Ashok
++    avatar: 'assets/images/ashok.png'
 +    email: author.clickfortech@gmail.com
 +    web: https://clickfortech.com
 +    #twitter: https://twitter.com/wowthemesnet
