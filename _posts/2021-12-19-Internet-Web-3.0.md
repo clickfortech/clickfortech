@@ -3,7 +3,7 @@ layout: post
 title:  "Internet Web 3.0"
 date:   2021-12-19 10:25:00 +0530
 categories: Internet
-#image: assets/images/2021/web3.0.png
+image: ../../assets/images/2021/web3.0.jpg
 tag: Internet
 ---
 
