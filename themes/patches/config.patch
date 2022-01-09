@@ -1,5 +1,5 @@
 diff --git a/_config.yml b/_config.yml
-index 2dbd79f..a9cfdc4 100644
+index 2dbd79f..5152454 100644
 --- a/_config.yml
 +++ b/_config.yml
 @@ -1,13 +1,19 @@
@@ -29,12 +29,13 @@ index 2dbd79f..a9cfdc4 100644
  locale: en_us
  lang: en_us
  feed_items: 10
-@@ -20,37 +26,29 @@ kramdown:
+@@ -20,37 +26,30 @@ kramdown:
  sass:
    sass_dir: _sass
    style: :compressed
 -ganalytics: UA-113961478-1
 +#ganalytics: UA-113961478-1
++ganalytics: G-M65RD1WJ8L
  
  # Authors
  authors:
