@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CES 2022 New launches for Laptop users"
-date: 2022-01-09 10:25:00 +0530
+date: 2022-01-09 10:45:00 +0530
 categories: ConsumerElectronics
 image: assets/images/2022/ces-2022-laptops/ces-2022-laptops.png
 ---
