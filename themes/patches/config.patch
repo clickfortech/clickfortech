@@ -1,8 +1,8 @@
 diff --git a/_config.yml b/_config.yml
-index 2dbd79f..5152454 100644
+index 2dbd79f..931ad13 100644
 --- a/_config.yml
 +++ b/_config.yml
-@@ -1,13 +1,19 @@
+@@ -1,13 +1,20 @@
 -title: "Affiliates"
 -email: wowthemesnet@gmail.com
 +title: "Click For Tech"
@@ -17,19 +17,22 @@ index 2dbd79f..5152454 100644
  timezone: UTC
 -baseurl: "/affiliates-jekyll-theme"
 -permalink: "/:title/"
-+permalink: "/:categories/:title/"
- logo: 'assets/images/logo.png'
- favicon: 'assets/images/favicon.ico'
+-logo: 'assets/images/logo.png'
+-favicon: 'assets/images/favicon.ico'
 -author: Sal
 -paginate: 30
 -disqus: 'demowebsite'
++permalink: "/:categories/:title/"
++logo: 'assets/images/click-for-tech-logo.png'
++#logo: 'assets/images/logo.png'
++#favicon: 'assets/images/favicon.ico'
 +author: Ashok
 +paginate: 10
 +#disqus: 'demowebsite'
  locale: en_us
  lang: en_us
  feed_items: 10
-@@ -20,37 +26,30 @@ kramdown:
+@@ -20,37 +27,30 @@ kramdown:
  sass:
    sass_dir: _sass
    style: :compressed
