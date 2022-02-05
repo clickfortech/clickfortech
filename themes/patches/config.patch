@@ -1,8 +1,8 @@
 diff --git a/_config.yml b/_config.yml
-index 2dbd79f..931ad13 100644
+index 2dbd79f..4f2eb04 100644
 --- a/_config.yml
 +++ b/_config.yml
-@@ -1,13 +1,20 @@
+@@ -1,13 +1,21 @@
 -title: "Affiliates"
 -email: wowthemesnet@gmail.com
 +title: "Click For Tech"
@@ -24,6 +24,7 @@ index 2dbd79f..931ad13 100644
 -disqus: 'demowebsite'
 +permalink: "/:categories/:title/"
 +logo: 'assets/images/click-for-tech-logo.png'
++favicon: 'assets/images/click-for-tech.ico'
 +#logo: 'assets/images/logo.png'
 +#favicon: 'assets/images/favicon.ico'
 +author: Ashok
@@ -32,7 +33,7 @@ index 2dbd79f..931ad13 100644
  locale: en_us
  lang: en_us
  feed_items: 10
-@@ -20,37 +27,30 @@ kramdown:
+@@ -20,37 +28,30 @@ kramdown:
  sass:
    sass_dir: _sass
    style: :compressed
