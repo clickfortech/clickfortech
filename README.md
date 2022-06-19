@@ -13,6 +13,10 @@ cd clickfortech
 cd themes/affiliates-jekyll-theme
 bundle install
 ```
+- To build and run locally
+```
+bundle exec jekyll serve
+```
 - Then build and generate site
 ```
 ./build.sh
